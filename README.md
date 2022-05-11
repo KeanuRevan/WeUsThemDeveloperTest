@@ -25,10 +25,10 @@
 <img src="images/update2.PNG">
 
 # A specified record will be selectable for deletion. This will be done with the Delete button in the records table. The deletion will be confirmed before executing.
-<img src="images/php-11.PNG">
+<img src="images/php-11.png">
 
 # The number of affected rows will be reported.
-<img src="images/php-12.PNG">
+<img src="images/php-12.png">
 
 # All deleted contacts records will be documented in the Former Contacts table.
 <img src="images/delete.PNG">
