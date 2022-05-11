@@ -9,7 +9,7 @@
 <img src="images/php-2.PNG">
 
 # Only authenticated users will be able access the site’s pages and view/modify the data. A login screen that prompts for the username and password will be presented when a user tries to access any page of the website. The password field will be masked with asterisks when the user types. The login information will match against data stored in the WebUsers table that was added to the contacts database. If the credentials match, they will be redirected to the site; otherwise they will stay on the login screen and get an appropriate message. Each page will have a Logout button, which will redirect to the login page and clear current logged in credentials when clicked.
-<img src="images/php-3.PNG">
+<img src="images/php-3.png">
 
 # contacts records will be displayed in an HTML table with borders and gridlines. Only a maximum of 25 rows from the contacts table will displayed on the page at any one time. The ability to page through the entire record set will be implemented with previous and next buttons/links. This paging feature must not break if users click on the previous link on the first page.
 <img src="images/websiteImage.PNG">
